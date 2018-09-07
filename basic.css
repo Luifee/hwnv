@@ -1,0 +1,27 @@
+body {
+    margin: 20px;
+    padding: 5px;
+    background-image: url(img/ch.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-attachment: fixed;
+    background-size: 65%;
+}
+
+h1 {
+    font-style: italic;
+}
+
+.title {
+    font-style: italic;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.lyrics {
+    line-height: 200%;
+    background-color: #ffffff;
+    width: 50%;
+    filter: alpha(opacity=75);
+    opacity: 0.75;
+}

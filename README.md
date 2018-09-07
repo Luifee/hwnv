@@ -1,11 +1,22 @@
-# hwnv  
-
 # 新手村作業  
 
-## Lv. 2  
+## Lv. 3  
+
   待完成  
 
+## Lv. 2  
+
+* Javascript/jQuery年齡計算  
+  Sep-07-2018 改進內容  
+
+* RoR Hello World初體驗  
+  Sep-05-2018  
+
+* CSS裝飾網頁  
+  Sep-07-2018  
+
 ## Lv. 1  
+
 * 純HTML網頁  
   Sep-04-2018  
 
