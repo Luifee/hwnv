@@ -15,6 +15,9 @@
 * CSS裝飾網頁  
   Sep-07-2018  
 
+* 設置Github pages  
+  Sep-07-2018  
+
 ## Lv. 1  
 
 * 純HTML網頁  

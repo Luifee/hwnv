@@ -40,3 +40,5 @@ Get wild and tough
 痛み心に抱いて  
 Get wild and tough  
 この街で…  
+
+                                            [回上頁](index.html)
