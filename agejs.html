@@ -11,12 +11,12 @@
     <!-- The JavaScript Source!! http://javascript.internet.com -->
     //感謝偉大的原作者，光是修改內容就快讓我去了半條命
 
-    //定義表單中輸入之日期數值，作為運算的基礎
+    //定義表單中之欄位初始值
     function start() {
-        document.form1.day.value = "";
-        document.form1.month.value = "";
-        document.form1.year.value = "";
-        document.form1.age.value = "";
+        document.form1.day.value = "15";
+        document.form1.month.value = "7";
+        document.form1.year.value = "1990";
+        document.form1.age.value = "計算結果";
     }
     //抓取及定義目前日期
     days = new Date();
@@ -79,13 +79,13 @@
     <br>
     <FORM name="form1">
         西元
-        <INPUT type="number" name="year" value="1990">年
-        <INPUT type="number" name="month" value="7">月
-        <INPUT type="number" name="day" value="15">日
-        <INPUT type="button" name="start" onclick="run()" value="計算 ">
+        <INPUT type="number" name="year">年
+        <INPUT type="number" name="month">月
+        <INPUT type="number" name="day">日
+        <INPUT type="button" name="start" onclick="run()" value="開始計算">
         <BR>
         <BR>
-        <INPUT name=age>
+        <INPUT name="age">
     </FORM>
 </body>
 
