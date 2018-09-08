@@ -7,7 +7,8 @@
 ## Lv. 2  
 
 * Javascript/jQuery年齡計算  
-  Sep-07-2018 改進內容  
+  Sep-07-2018 debug  
+  Sep-08-2018 將JavaScript由內嵌改為引用js檔
 
 * RoR Hello World初體驗  
   Sep-05-2018  
