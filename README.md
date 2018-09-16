@@ -7,9 +7,11 @@
 
 ## Lv. 2  
 
-* Javascript/jQuery年齡計算  
+* 年齡計算Javascript  
   Sep-07-2018 debug  
-  Sep-08-2018 將JavaScript由內嵌改為引用js檔
+  Sep-08-2018 將JavaScript由內嵌改為引用js檔  
+  jQuery年齡計算  
+  Sep-17-2018 Datepicker好省事
 
 * RoR Hello World初體驗  
   Sep-05-2018  
