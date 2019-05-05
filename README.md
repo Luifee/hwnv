@@ -1,9 +1,58 @@
 # 新手村作業  
 
+## Lv. 5
+
+* 基礎網站  
+
+## Lv. 4  
+
+* 暱稱首頁  
+
+* RoR訂閱電子報(MySQL版)  
+
+
 ## Lv. 3  
+
+* RoR訂閱電子報  
+  持續糾結中
+
+---
+  在Lv.2的Hello World作業如果照著[Ruby on Rails實戰聖經](https://ihower.tw/rails/firststep.html#sec1)的說明，在Gemfile加了：  
+  `gem 'therubyracer'`  
+  在Lv.3導入Bootstrap的過程中會出現錯誤訊息，被建議改用：  
+  `gem 'mini_racer'`  
+  同時，若發現有Jquery轉譯的問題，可以加入：  
+  `gem 'jquery-rails'  
+---
 
 * Bootstrap裝飾網頁  
   Sep-14-2018  
+
+## Lv. 2.5  
+
+* Ruby程式  
+  Nov-18-2018  
+  千呼萬喚終於先完成非迴圈版本(眼神死)  
+
+* 字串轉換  
+  Oct-18-2018  
+  A1:  
+  MD5 Hash: E10ADC3949BA59ABBE56E057F20F883E  
+  SHA1 Hash: 7C4A8D09CA3762AF61E59520943DC26494F8941B  
+  Base64Encode: MTIzNDU2  
+  URLEncode: 123456  
+  
+  A2:  
+  Base64Decode: <https://github.com/sakura26/NewbieVillage>  
+
+  A3:  
+  MD5被認為是單向函式，極其難以由雜湊函式輸出的結果，回推輸入的資料是什麼。<https://zh.wikipedia.org/wiki/密碼雜湊函數>  
+  然而短位數的資料還是能透過駭客基礎工程（誤）找到答案：PASSWORD
+
+* RoR表單  
+  May-05-2019  
+  終於弄出個表面上看起來符合要求的版本  
+
 
 ## Lv. 2  
 
